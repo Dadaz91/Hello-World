@@ -1,2 +1,5 @@
-# Hello-World,My names Damian Dutrisac and I wan't to create apps for a living 
-Another Repository
+# Hello-World
+Here's another repository
+
+Hi, Is anyone out there?
+Can anyone help me learn to program!
